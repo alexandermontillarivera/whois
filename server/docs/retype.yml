@@ -1,0 +1,10 @@
+input: .
+output: build
+locale: en
+order: -1000
+url: https://whois.api.alexandermontillarivera.com
+branding:
+  title: Whois API
+  favicon: favicon.ico
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
